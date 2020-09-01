@@ -12,11 +12,11 @@ Harrison, 2020.9
 
 - [x] **Lecture 1:** Intro to computer vision, historical context
    - [x] [Video](https://youtu.be/NfnWJUyUJYU)
-   - [x] [Slides](Slides_2017/lecture1.pdf)
+   - [x] [Slides](Slides_2017/cs231n_2017_lecture1.pdf)
 - [x] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
    - [x] [Video](https://youtu.be/8inugqHkfvE)
-   - [x] [Slides](Slides_2017/lecture2.pdf)
+   - [x] [Slides](Slides_2017/cs231n_2017_lecture2.pdf)
    - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](notes/image-classification.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
@@ -24,12 +24,12 @@ Harrison, 2020.9
       representations, image features; Optimization, stochastic
       gradient descent
    - [ ] [Video](https://youtu.be/qlLChbHhbg4)
-   - [ ] [Slides](Slides_2017/lecture3.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture3.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
    - [ ] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
    - [ ] [Video](https://youtu.be/i94OvYb6noo)
-   - [ ] [Slides](Slides_2017/lecture4.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture4.pdf)
    - [ ] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
@@ -49,7 +49,7 @@ Harrison, 2020.9
       normalization; Babysitting the learning process, hyperparameter
       optimization
    - [ ] [Video](https://youtu.be/gYpoJMlgyXA)
-   - [ ] [Slides](Slides_2017/lecture5.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture5.pdf)
    - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
@@ -62,23 +62,23 @@ Harrison, 2020.9
       updates, ensembles, dropout; Convolutional Neural Networks:
       intro
    - [ ] [Video](https://youtu.be/hd_KFJ5ktUc)
-   - [ ] [Slides](Slides_2017/lecture6.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture6.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
    - [ ] [Video](https://youtu.be/LxfUGhug-iQ)
-   - [ ] [Slides](Slides_2017/lecture7.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture7.pdf)
    - [ ] [ConvNet notes](notes/conv-nets.pdf)
 - [ ] **Lecture 8:** ConvNets for spatial localization; Object
       detection
    - [ ] [Video](https://youtu.be/GxZrEKZfW2o)
-   - [ ] [Slides](slides/lecture8.pdf)
+   - [ ] [Slides](slides/cs231n_2017_lecture8.pdf)
 - [ ] **Lecture 9:** Understanding and visualizing Convolutional
       Neural Networks; Backprop into image: Visualizations, deep
       dream, artistic style transfer; Adversarial fooling examples
    - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
-   - [ ] [Slides](Slides_2017/lecture9.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture9.pdf)
 - [ ] **[Assignment 2](assignments/assignment2/assignment2.pdf)**
    - [ ] Fully-connected Neural Network
    - [ ] Batch Normalization
@@ -88,7 +88,7 @@ Harrison, 2020.9
 - [ ] **Lecture 10:** Recurrent Neural Networks (RNN), Long Short Term
        Memory (LSTM); RNN language models; Image captioning
    - [ ] [Video](https://youtu.be/yCC09vCHzF8)
-   - [ ] [Slides](Slides_2017/lecture10.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture10.pdf)
    - [ ] Related references
       - [ ] [Recurrent neural networks](papers/rnn.html)
       - [ ] [Min Char RNN](https://gist.github.com/karpathy/d4dee566867f8291f086)
@@ -98,10 +98,10 @@ Harrison, 2020.9
       augmentation, transfer learning; Distributed training, CPU/GPU
       bottlenecks; Efficient convolutions
    - [ ] [Video](https://youtu.be/pA4BsUK3oP4)
-   - [ ] [Slides](Slides_2017/lecture11.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture11.pdf)
 - [ ] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
-   - [ ] [Slides](Slides_2017/lecture12.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture12.pdf)
 - [ ] **[Assignment 3](assignments/assignment3/assignment3.pdf)**
    - [ ] Image Captioning with Vanilla RNNs
    - [ ] Image Captioning with LSTMs
@@ -111,11 +111,11 @@ Harrison, 2020.9
 - [ ] **Lecture 13:** Segmentation; Soft attention models; Spatial
       transformer networks
    - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
-   - [ ] [Slides](Slides_2017/lecture13.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture13.pdf)
 - [ ] **Lecture 14:** ConvNets for videos; Unsupervised learning
    - [ ] [Video](https://youtu.be/ekyBklxwQMU)
-   - [ ] [Slides](Slides_2017/lecture14.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture14.pdf)
 - [ ] **Invited Lecture:** A sampling of deep learning at Google
    - [ ] [Video](https://youtu.be/T7YkPWpwFD4)
 - [ ] **Lecture 15:** Conclusions
-   - [ ] [Slides](Slides_2017/lecture15.pdf)
+   - [ ] [Slides](Slides_2017/cs231n_2017_lecture15.pdf)
