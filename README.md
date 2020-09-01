@@ -17,16 +17,16 @@ Happy learning!
 
 ## Course Syllabus
 
-- [ ] **Lecture 1:** Intro to computer vision, historical context
-   - [ ] [Video](https://youtu.be/NfnWJUyUJYU)
-   - [ ] [Slides](slides/lecture1.pdf)
-- [ ] **Lecture 2:** Image classification and the data-driven
+- [x] **Lecture 1:** Intro to computer vision, historical context
+   - [x] [Video](https://youtu.be/NfnWJUyUJYU)
+   - [x] [Slides](slides/lecture1.pdf)
+- [x] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
-   - [ ] [Video](https://youtu.be/8inugqHkfvE)
-   - [ ] [Slides](slides/lecture2.pdf)
+   - [x] [Video](https://youtu.be/8inugqHkfvE)
+   - [x] [Slides](slides/lecture2.pdf)
    - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
-   - [ ] [Image classification notes](notes/image-classification.pdf)
-   - [ ] [Linear classification notes](notes/linear-classification.pdf)
+   - [x] [Image classification notes](notes/image-classification.pdf)
+   - [x] [Linear classification notes](notes/linear-classification.pdf)
 - [ ] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
