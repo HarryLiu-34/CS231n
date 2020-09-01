@@ -2,18 +2,11 @@
 
 This repository is an archive of the course [CS231n: Convolutional
 Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
-(Winter 2016). If you’re even vaguely interested in this topic, you
-should probably take this class. It is outstanding.
-
-To use this repository, [make a fork of
-it](https://help.github.com/articles/fork-a-repo/) and then
-tick off the items in the following syllabus as you complete
-them. (You can tick off items by replacing `[ ]` with `[x]` in
-`README.md`.)
+(Spring 2017). 
 
 Happy learning!
 
-[Harish Narayanan](https://harishnarayanan.org/), 2017
+Harrison, 2020.9
 
 ## Course Syllabus
 
@@ -25,8 +18,8 @@ Happy learning!
    - [x] [Video](https://youtu.be/8inugqHkfvE)
    - [x] [Slides](slides/lecture2.pdf)
    - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
-   - [x] [Image classification notes](notes/image-classification.pdf)
-   - [x] [Linear classification notes](notes/linear-classification.pdf)
+   - [ ] [Image classification notes](notes/image-classification.pdf)
+   - [ ] [Linear classification notes](notes/linear-classification.pdf)
 - [ ] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
